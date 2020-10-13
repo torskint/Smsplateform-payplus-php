@@ -1,9 +1,9 @@
 {
-    "name": "payplus/php",
+    "name": "smsplateform/payplus-php",
     "type": "library",
     "description": "Cette librairie est mise à la disposition des développeurs qui désirent interagir avec l'api de la plateforme payplus.",
     "keywords": ["smsplateform","sms plateform","send sms","sms api"],
-    "homepage": "https://smsplateform.com",
+    "homepage": "https://payplus.africa/",
     "license": "MIT",
     "authors": [
         {
