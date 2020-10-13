@@ -1,0 +1,25 @@
+{
+    "name": "payplus/php",
+    "type": "library",
+    "description": "Cette librairie est mise à la disposition des développeurs qui désirent interagir avec l'api de la plateforme payplus.",
+    "keywords": ["smsplateform","sms plateform","send sms","sms api"],
+    "homepage": "https://smsplateform.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sms Plateform",
+            "email": "support@smsplateform.com",
+            "homepage": "https://smsplateform.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Smsplateform\\Payplus\\Client\\": "src"
+        },
+        "classmap": ["binary/"]
+    }
+}
